@@ -14,7 +14,7 @@ pub fn main() !void {
         did = true;
     }
     if (!did) {
-        try stdout.print("Usage: {s} <new entry>", .{bin});
+        try stdout.print("Usage: {s} <new entry>\n", .{bin});
     }
 }
 
