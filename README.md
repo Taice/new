@@ -5,7 +5,7 @@ Need to make a nested directory with a file at the end? No problem, new has your
 ```
 new dir1/dir2/dir3/file file dir5/dir6/
 ```
-the outputting tree will be 
+the resulting tree will be 
 ```
 .
 ├── dir1
